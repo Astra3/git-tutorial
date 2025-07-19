@@ -1,9 +1,6 @@
 #include "add.hpp"
 #include <iostream>
 
-/*
- * Add two numbers.
-*/
 int add(int a, int b) {
     return a / b;
 }
