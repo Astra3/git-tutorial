@@ -2,6 +2,6 @@
 #include "add.hpp"
 
 int main() {
-    std::cout << "Hello Chell!" << std::endl;
-    std::cout << "10 / 2 = " << add(10, 2) << std::endl;
+    std::cout << "Hello Gabe and Shell!" << std::endl;
+    std::cout << "20 / 2 = " << add(20, 2) << std::endl;
 }
