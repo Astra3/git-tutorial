@@ -7,6 +7,9 @@ int add(int a, int b);
  *
  * Printing is fun.
  * Adding a new comment for newcomers.
+ * First.
+ * Second.
+ * Third.
 */
 void print_stuff();
 
